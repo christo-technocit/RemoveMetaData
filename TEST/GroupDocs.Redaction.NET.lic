@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<License>
+  <Data>
+    <LicensedTo>technocit</LicensedTo>
+    <EmailTo>augustine@technocit.com</EmailTo>
+    <LicenseType>Developer Small Business</LicenseType>
+    <LicenseNote>One Developer And One Deployment Location</LicenseNote>
+    <OrderID>201118095749</OrderID>
+    <UserID>862950</UserID>
+    <OEM>This is not a redistributable license</OEM>
+    <Products>
+      <Product>GroupDocs.Redaction for .NET</Product>
+    </Products>
+    <EditionType>Professional</EditionType>
+    <SerialNumber>71deb1f0-d1f5-43a1-84f4-3ef70755bd00</SerialNumber>
+    <SubscriptionExpiry>20211118</SubscriptionExpiry>
+    <LicenseExpiry>20201218</LicenseExpiry>
+    <ExpiryNote>This is a temporary license for non-commercial use only and it will expire on 2020-12-18</ExpiryNote>
+    <LicenseVersion>3.0</LicenseVersion>
+    <LicenseInstructions>https://purchase.groupdocs.com/policies/use-license</LicenseInstructions>
+  </Data>
+  <Signature>MM7QQi8QX9KXNLvb1N9wk99F5zF2jAGNBsKij7bwGJ8LkkMaeN6hHQUvqWIg3W/2I3xVgk7/8JwrSfq2RNWGm0rRWkpiAYSz58CMiamz8VZuM2uJjg/Tvzx+I9NfZl+SX4cnD0q/wZMo8iB/naLtM4bNsVT24v3oewMvXHTIKJM=</Signature>
+</License>
